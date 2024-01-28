@@ -2,7 +2,7 @@
 
 namespace Lesson11.Response
 {
-    public class CategoryResponse : GetBaseResponse<Category>
+    public class GetProductResponse : GetBaseResponse<Product>
     {
     }
 }
